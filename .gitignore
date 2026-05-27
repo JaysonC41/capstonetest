@@ -1,6 +1,6 @@
 .venv
 /data/nycparking2025.csv
-/notebooks/fines_extracted.csv
-/notebooks/parking_violations_cleaned.csv
+/data/fines_extracted.csv
+/data/parking_violations_cleaned.csv
 .vscode
-/notebooks/parking_violations_final.csv
+/data/parking_violations_final.csv
