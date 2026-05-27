@@ -2,3 +2,4 @@
 /data/nycparking2025.csv
 /notebooks/fines_extracted.csv
 /notebooks/parking_violations_cleaned.csv
+.vscode
