@@ -3,3 +3,4 @@
 /notebooks/fines_extracted.csv
 /notebooks/parking_violations_cleaned.csv
 .vscode
+/notebooks/parking_violations_final.csv
